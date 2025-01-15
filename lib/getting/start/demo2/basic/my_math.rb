@@ -16,6 +16,6 @@ module MyMath
   end
 
   def self.pow(a, b)
-    a ** b
+    a**b
   end
 end

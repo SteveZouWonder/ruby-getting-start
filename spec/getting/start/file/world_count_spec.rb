@@ -1,5 +1,5 @@
-require 'rspec'
-require 'getting/start/demo2/file/world_count'
+require "rspec"
+require "getting/start/demo2/file/world_count"
 
 RSpec.describe WorldCount do
   context "when test initialize" do
